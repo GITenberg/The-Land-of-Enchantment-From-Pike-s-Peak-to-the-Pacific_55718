@@ -1,0 +1,24 @@
+_repo: The-Land-of-Enchantment-From-Pike-s-Peak-to-the-Pacific_55718
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Whiting, Lilian
+    alias: Whiting, Emily Lillian
+    birthdate: 1847
+    deathdate: 1942
+    gutenberg_agent_id: '26052'
+    url: http://www.gutenberg.org/2009/agents/26052
+    wikipedia: http://en.wikipedia.org/wiki/Lilian_Whiting
+description: ''
+gutenberg_issued: '2017-10-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '55718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Land of Enchantment: From Pike''s Peak to the Pacific'
+url: http://www.gutenberg.org/ebooks/55718
